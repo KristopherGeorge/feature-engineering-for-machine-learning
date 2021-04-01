@@ -19,9 +19,11 @@ env.bak/
 venv.bak/
 
 # datasets
-*.csv
+
 *.zip
 *.data
+*.docx
+
 
 # files not to put in repo
 Make-toy-finance-dataset.ipynb
